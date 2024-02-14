@@ -10,7 +10,7 @@ namespace MSHTIN026_Election.Controllers
 {
     public class RegistrationController
     {
-        FirebaseDB db;
+        /*FirebaseDB db;
 
         public RegistrationController()
         {
@@ -28,7 +28,7 @@ namespace MSHTIN026_Election.Controllers
             {
                 
             }
-        }
+        }*/
 
     }
 }
